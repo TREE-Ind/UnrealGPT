@@ -20,6 +20,12 @@ Double click on the editor utility for full customization through blueprints.
 
 ## Information
 
-Each editor utility is made fully in Blueprint with a simple python script node that interacts with GPT3.  Right now this uses the completion method with davinci-003 for the model.  It should be easy to extend / create other utilities using the method, and extend to eventually use GPT4 for a more chat like utility.    
+Each editor utility is made fully in Blueprint with a simple python script node that interacts with GPT3.  Right now this uses the completion method with davinci-003 for the model.  It should be easy to extend / create other utilities using the method, and extend to eventually use GPT4 for a more chat like utility.
+
+## ToDos
+
+- [x] Release first utility
+- [ ] Add proper error checking
+- [ ] Add more utilities!
 
 We welcome contributions and PRs
