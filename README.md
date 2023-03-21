@@ -10,9 +10,7 @@ Then make sure to install OpenAI via pip using this method - https://dev.epicgam
 
 **Required pip libraries - openai, sounddevice(if using whisper)**
 
-Open the editor utility in the UE5 editor and place your OpenAI api key in python script blueprint node.
-
-![2023-03-16 10_44_31-CineCamGPT](https://user-images.githubusercontent.com/30479526/225676130-574aeb9a-bd42-4bdc-816d-a36d9d91df8a.png)
+Open the editor utility in the UE5 editor and place your OpenAI api key in api_key variable, then save the blueprint.
 
 ## Usage
 
