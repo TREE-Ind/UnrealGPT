@@ -8,6 +8,10 @@ Download and place one of the editor utilities within the UE5 project you wish t
 
 Then make sure to install OpenAI via pip using this method - https://dev.epicgames.com/community/learning/tutorials/lJly/python-install-modules-with-pip-unreal-engine-5-tutorial.  This is the only real requirement but only take a couple of minutes, all editor utilities from this repo should work after step is completed.
 
+Here is a quick example of how this is done for UE5.1
+
+```"C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\ThirdParty\Python3\Win64\python.exe" -m pip install openai sounddevice```
+
 **Required pip libraries - openai, sounddevice(if using whisper)**
 
 Open the editor utility in the UE5 editor and place your OpenAI api key in api_key variable, then save the blueprint.
