@@ -4,7 +4,7 @@ A collection of Unreal Engine 5 Editor Utility widgets powered by GPT3/4.
 
 ## Installation
 
-<video src="https://www.youtube.com/watch?v=7XYyGUcX6aA"></video>
+[<img src="https://img.youtube.com/vi/7XYyGUcX6aA/maxresdefault.jpg" width="50%">](https://youtu.be/7XYyGUcX6aA)
 
 Download and place one of the editor utilities within the UE5 project you wish to use it.
 
